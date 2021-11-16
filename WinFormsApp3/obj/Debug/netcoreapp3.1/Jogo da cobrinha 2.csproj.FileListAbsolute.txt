@@ -1,0 +1,17 @@
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.csproj.AssemblyReference.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo_da_cobrinha_2.Properties.Resources.resources
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.csproj.GenerateResource.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.AssemblyInfoInputs.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.AssemblyInfo.cs
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.csproj.CoreCompileInputs.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Jogo da cobrinha 2.exe
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Jogo da cobrinha 2.deps.json
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Jogo da cobrinha 2.runtimeconfig.json
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Jogo da cobrinha 2.runtimeconfig.dev.json
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Jogo da cobrinha 2.dll
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Jogo da cobrinha 2.pdb
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.dll
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.pdb
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Jogo da cobrinha 2.genruntimeconfig.cache

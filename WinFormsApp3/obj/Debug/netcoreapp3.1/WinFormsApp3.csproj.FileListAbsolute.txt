@@ -1,0 +1,17 @@
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Weverton Fagner\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo da cobrinha 2", "WinFormsApp3\Jogo da cobrinha 2.csproj", "{61111DC1-6110-4616-A1B2-D89B92C641A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61111DC1-6110-4616-A1B2-D89B92C641A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61111DC1-6110-4616-A1B2-D89B92C641A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61111DC1-6110-4616-A1B2-D89B92C641A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61111DC1-6110-4616-A1B2-D89B92C641A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF5773B-CA8C-4F52-A436-034D028DD320}
+	EndGlobalSection
+EndGlobal
